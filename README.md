@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz H. Lascoski Zacarias</h1>
-<h3 align="center">I am an aspiring full stack developer with extensive knowledge in React.js looking to improve more and more</h3>
+<h3 align="center">I'm initially a front-end JavaScript developer, but I'm working hard to become a full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izlusxz&label=Profile%20views&color=0e75b6&style=flat" alt="izlusxz" /> </p>
 
